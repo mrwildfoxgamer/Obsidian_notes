@@ -1,4 +1,4 @@
-[[JAVA/UNIT 1|UNIT 1]]
+[[Unit 1.5|]]
 
 *A java statement is an instruction that  tells java what to do a java statement should end with a `;` It tells java to execute till the `;`*
 

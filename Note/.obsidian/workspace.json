@@ -22,16 +22,35 @@
             }
           },
           {
-            "id": "5a61ede90a5591a0",
+            "id": "8d06fc2571ce59a9",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "DBMS/Extras.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Extras"
+            }
+          },
+          {
+            "id": "5373789fca8c3891",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DBMS/ER MODEL.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ER MODEL"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -178,34 +197,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d03372f68256c413",
+  "active": "8d06fc2571ce59a9",
   "lastOpenFiles": [
     "DBMS/ER MODEL.md",
-    "DBMS/UNIT 2.md",
-    "DBMS/Instance and Schema.md",
-    "DBMS/Extras.md",
-    "DBMS/DBMS.md",
-    "JAVA/Constructors.md",
-    "DBMS/TYPES OF ATTRIBUTES.md",
+    "DBMS/ER DIAGRAMS.md",
     "DBMS/Entity-Relationship modeling.md",
+    "DBMS/TYPES OF ATTRIBUTES.md",
+    "DBMS/UNIT 2.md",
+    "DBMS/Extras.md",
+    "DBMS/Instance and Schema.md",
     "DBMS/System Structures.md",
-    "DBMS/TYPES OF DBMS.md",
     "DBMS/CoDD's Rules.md",
+    "DBMS/UNIT 1.md",
+    "DBMS/Three Schema Architecture.md",
+    "DBMS/TYPES OF DBMS.md",
+    "DBMS/DBMS.md",
+    "DBMS/Data Independents.md",
+    "JAVA/UNIT 1.md",
+    "JAVA/Constructors.md",
+    "JAVA/Java Statements.md",
     "JAVA/Objects and Classes.md",
     "JAVA/building blocks of OOP.md",
     "JAVA/Data Types.md",
     "JAVA/Variables.md",
     "JAVA/JAVA.md",
-    "JAVA/UNIT 1.md",
     "JAVA/Unit 1.5.md",
     "JAVA/FRATURES OF JAVA.md",
-    "JAVA/Java Statements.md",
     "JAVA/Java Structure.md",
     "JAVA/JVM.md",
-    "JAVA/Operators in Java.md",
-    "JAVA/Java Tokens.md",
-    "DBMS/Data Independents.md",
-    "DBMS/Three Schema Architecture.md",
     "JAVA",
     "DBMS"
   ]

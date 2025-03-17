@@ -1,4 +1,4 @@
-
+[[DBMS]]
 ## **```Introduction```**
 1. **Data** is the unprocessed raw known facts
 2. **Information** is refers to as the processed,organized,structured data

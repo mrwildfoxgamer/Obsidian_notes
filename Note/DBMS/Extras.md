@@ -33,7 +33,7 @@
 ### Data Independence
 *Data independence refers to the separation between how data is stored and how it is accessed*
 - **Logical data independence**: the ability to change the conceptual schema without affecting the external schema (user views)
-- Physical Data independence: The capacity to change the internal schema (storage structures,file organization) which out affecting the conceptual schema 
+- **Physical Data independence:** The capacity to change the internal schema (storage structures,file organization) which out affecting the conceptual schema 
 *This separation allows databases administrators to optimize performance and storage without affecting how applications interacts with the data*
 
 ### Constraints and Data integrity
@@ -47,7 +47,7 @@
 - **Logical Models** defines detailed structures including entities attributes and relationships 
 - **Physical Models** Mapping the logical design to a physical implementation,considering storage indexing and performance.
 
-### Database vs schema 
+### Database instance vs schema 
 - **Database instance::** A data base instance refers to the actual running database system where memory structures and processes are actively managing  data
 - **Database Schema** A schema is a blueprint or logical structure of a database defined by tables,views and relationships,while the schema remains static the instance can change with daily data operations 
 ### Data Types
