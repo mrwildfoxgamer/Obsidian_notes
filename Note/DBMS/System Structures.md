@@ -1,7 +1,7 @@
 [[DBMS/UNIT 1]]
 ### The Different Modules
 #### Query compiler 
-*compiles and optimize the user entered query**
+*compiles and optimize the user entered query*
 #### Query processor 
 - compiler and linker
 - DML queries
