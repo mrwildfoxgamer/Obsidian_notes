@@ -1,5 +1,5 @@
 [[JAVA/UNIT 1|UNIT 1]]
-*operators in java are the Symbols used to perform specific talks*
+*operators in java are the Symbols used to perform specific tasks*
 
 #### Arithmetic Operators 
 - *Used for mathematical Operations* 

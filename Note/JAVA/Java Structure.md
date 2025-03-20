@@ -1,6 +1,6 @@
 [[JAVA/UNIT 1|UNIT 1]]
 #### Documentation 
-*Single line comments stats with //  multi line comment stats with /* *and ends with /*
+Single line comments stats with //  multi line comment stats with  $/ *$ and ends with  $* /$
 *comments are non Executable part of a program the compiler ignores comments*
 *comments increases the readability of a code*
 

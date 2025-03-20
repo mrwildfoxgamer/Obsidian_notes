@@ -7,7 +7,6 @@
 - Secured `no explicit pointers` `it exicutes inside java virtual machine`
 - Strong memory management 
 - Architectural neutral
-- Size of primitive size is fixed 
+- Size of primitive datatypes size is fixed 
 - portable 
 - multi-threading
-- 

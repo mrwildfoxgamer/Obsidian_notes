@@ -4,53 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "01e3aace8c6ed3ad",
+        "id": "626e16731d302065",
         "type": "tabs",
         "children": [
           {
-            "id": "d03372f68256c413",
+            "id": "ee6be6cf85f56ec6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DBMS/Extras.md",
-                "mode": "preview",
+                "file": "JAVA/Java Statements.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Extras"
-            }
-          },
-          {
-            "id": "8d06fc2571ce59a9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DBMS/Extras.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Extras"
-            }
-          },
-          {
-            "id": "5373789fca8c3891",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DBMS/ER MODEL.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ER MODEL"
+              "title": "Java Statements"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -123,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DBMS/Extras.md",
+                "file": "JAVA/Java Statements.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Extras"
+              "title": "Backlinks for Java Statements"
             }
           },
           {
@@ -142,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git.md",
+                "file": "JAVA/Java Statements.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Git"
+              "title": "Outgoing links from Java Statements"
             }
           },
           {
@@ -180,7 +151,8 @@
               "title": "Outline of Git"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -197,34 +169,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8d06fc2571ce59a9",
+  "active": "ee6be6cf85f56ec6",
   "lastOpenFiles": [
+    "JAVA/building blocks of OOP.md",
+    "JAVA/JVM.md",
+    "JAVA/FRATURES OF JAVA.md",
+    "JAVA/Data Types.md",
+    "JAVA/Constructors.md",
+    "JAVA/JAVA.md",
+    "JAVA/Java Statements.md",
+    "JAVA/Java Structure.md",
+    "JAVA/Java Tokens.md",
+    "JAVA/Operators in Java.md",
+    "JAVA/Variables.md",
+    "JAVA/UNIT 1.md",
+    "JAVA/Objects and Classes.md",
+    "JAVA/Unit 1.5.md",
     "DBMS/ER MODEL.md",
+    "DBMS/Extras.md",
     "DBMS/ER DIAGRAMS.md",
     "DBMS/Entity-Relationship modeling.md",
     "DBMS/TYPES OF ATTRIBUTES.md",
     "DBMS/UNIT 2.md",
-    "DBMS/Extras.md",
     "DBMS/Instance and Schema.md",
     "DBMS/System Structures.md",
     "DBMS/CoDD's Rules.md",
     "DBMS/UNIT 1.md",
     "DBMS/Three Schema Architecture.md",
     "DBMS/TYPES OF DBMS.md",
-    "DBMS/DBMS.md",
-    "DBMS/Data Independents.md",
-    "JAVA/UNIT 1.md",
-    "JAVA/Constructors.md",
-    "JAVA/Java Statements.md",
-    "JAVA/Objects and Classes.md",
-    "JAVA/building blocks of OOP.md",
-    "JAVA/Data Types.md",
-    "JAVA/Variables.md",
-    "JAVA/JAVA.md",
-    "JAVA/Unit 1.5.md",
-    "JAVA/FRATURES OF JAVA.md",
-    "JAVA/Java Structure.md",
-    "JAVA/JVM.md",
     "JAVA",
     "DBMS"
   ]
