@@ -1,4 +1,4 @@
-#cloud #prog 
+[[Cloud]] #cloud #prog 
 ##  setting up local repo 
 
 1. download git 
