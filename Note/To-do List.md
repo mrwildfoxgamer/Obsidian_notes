@@ -1,4 +1,4 @@
-
+[[Local]]
 ## Rust
 
 - [ ] Basic rust
