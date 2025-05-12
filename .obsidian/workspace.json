@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "temp/TIME TABLE.md",
+                "file": "Note/JAVA/Charterers Streams Vs Bytes Streams.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TIME TABLE"
+              "title": "Charterers Streams Vs Bytes Streams"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 332.5,
-    "collapsed": true
+    "width": 332.5
   },
   "right": {
     "id": "0b51c5841c246775",
@@ -171,10 +170,11 @@
   },
   "active": "0d72f2e46e2ae816",
   "lastOpenFiles": [
-    "Note/JAVA/List Interface.md",
-    "temp/TIME TABLE.md",
-    "Note/JAVA/Collections in java.md",
+    "Note/JAVA/Charterers Streams Vs Bytes Streams.md",
     "Note/JAVA/Unit_2.md",
+    "temp/TIME TABLE.md",
+    "Note/JAVA/List Interface.md",
+    "Note/JAVA/Collections in java.md",
     "Note/JAVA/Exception handling Keywords.md",
     "temp/Record.md",
     "temp/Maths.md",
