@@ -16,3 +16,17 @@
 
 *A Blocked thread is a Thread that wants to run but is waiting to access a resource like an Object or a lock which another thread is using*
 
+#### Waiting state: 
+
+*The waiting state in java is a situation in which a thread is paused and waiting for an other thread to perform specific action before it can be processed When a thread is in waiting state it does not consume any cpu cycle*
+*A thread goes to waiting state when a method that cause the thread to wait till another thread signals it to continue*
+
+#### Timed waiting
+*A thread is in a timed waiting state when a method with a time-out condition is called The thread lies in this condition until the time-out completes or until a notification is received*
+
+#### Terminated state
+
+*A thread is in terminated state when the code is completely executed by the program or when an error or an un-handled exception has occurred*
+
+` To create a new thread, your program will either extend Thread or implement the Runnable interface.`
+

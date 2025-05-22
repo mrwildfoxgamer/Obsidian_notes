@@ -10,3 +10,7 @@
 [[List Interface]]
 [[Threads]]
 [[Thread states]]
+[[Methods for threads]]
+[[Implementation of Thread]]
+[[Thread  Scheduling]]
+[[Synchronization And Lock In Java]]

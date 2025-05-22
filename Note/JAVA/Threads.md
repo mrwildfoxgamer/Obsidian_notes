@@ -12,10 +12,10 @@
 
 
 [[Thread states]]
-$New$
-$Runnable$
-$Running$
-$NON-Runnable(Blocked)$
-$Terminated$
+$New$ - Thread is created but hasn't started `new thread()`
+$Runnable$ - `start()` when called the thread is started and is waiting to run
+$Running$ - The thread is actively executing its task inside the `run()` method
+$NON-Runnable(Blocked)$ - The thread is temporally paused or waiting for conditions to satisfy to run 
+$Terminated$ - The thread has completed execution or it is stopped
 
 

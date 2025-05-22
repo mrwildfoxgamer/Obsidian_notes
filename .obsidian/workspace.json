@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "dd6c9b55e9ad75a3",
+        "id": "d3f5eee89d818073",
         "type": "tabs",
         "children": [
           {
-            "id": "0d72f2e46e2ae816",
+            "id": "48dfd29d50ed744b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Note/JAVA/Thread states.md",
+                "file": "Note/JAVA/Synchronization And Lock In Java.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Thread states"
+              "title": "Synchronization And Lock In Java"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 334.5
+    "width": 262.5
   },
   "right": {
     "id": "0b51c5841c246775",
@@ -168,15 +168,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0d72f2e46e2ae816",
+  "active": "48dfd29d50ed744b",
   "lastOpenFiles": [
-    "Note/JAVA/Threads.md",
     "Note/JAVA/Unit_2.md",
+    "Note/JAVA/Synchronization And Lock In Java.md",
+    "Note/JAVA/Thread  Scheduling.md",
+    "Note/JAVA/Implementation of Thread.md",
+    "Note/JAVA/FRATURES OF JAVA.md",
+    "temp/TIME TABLE.md",
+    "Note/JAVA/Implementation of runnable interface.md",
+    "Note/JAVA/Methods for threads.md",
     "Note/JAVA/Thread states.md",
+    "Note/JAVA/Untitled",
+    "Note/JAVA/Interface.md",
+    "Note/JAVA/Inheritance.md",
+    "Note/JAVA/UNIT 1.md",
+    "Note/JAVA/Unit 1.5.md",
+    "Note/JAVA/Threads.md",
+    "Note/JAVA/Variables.md",
     "[Note/JAVA/Thread states.md",
     "[Note/JAVA",
     "[Note",
-    "Note/JAVA/Variables.md",
     "Note/Arch.md",
     "Thread states.md",
     "**Thread states**.md",
@@ -184,22 +196,11 @@
     "Note/JAVA/List Interface.md",
     "temp/Maths.md",
     "malayalam/topic.md",
-    "temp/TIME TABLE.md",
     "malayalam",
     "Note/JAVA/Charterers Streams Vs Bytes Streams.md",
     "Note/JAVA/Collections in java.md",
     "Note/JAVA/Exception handling Keywords.md",
-    "temp/Record.md",
-    "Note/JAVA/EXCEPTIONS IN JAVA.md",
-    "Note/JAVA/Final KeyWord.md",
-    "Note/JAVA/Method Overriding.md",
-    "Note/To-do List.md",
-    "Note/Rust.md",
-    "Note/Programming.md",
-    "Note/Local.md",
     "temp",
-    "Note/JAVA/Inheritance.md",
-    "Note/JAVA/Interface.md",
     "Untitled.canvas"
   ]
 }
