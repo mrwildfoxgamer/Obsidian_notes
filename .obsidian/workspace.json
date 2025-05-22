@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Note/JAVA/Charterers Streams Vs Bytes Streams.md",
+                "file": "Note/JAVA/Thread states.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Charterers Streams Vs Bytes Streams"
+              "title": "Thread states"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 332.5
+    "width": 334.5
   },
   "right": {
     "id": "0b51c5841c246775",
@@ -170,14 +170,26 @@
   },
   "active": "0d72f2e46e2ae816",
   "lastOpenFiles": [
-    "Note/JAVA/Charterers Streams Vs Bytes Streams.md",
+    "Note/JAVA/Threads.md",
     "Note/JAVA/Unit_2.md",
-    "temp/TIME TABLE.md",
+    "Note/JAVA/Thread states.md",
+    "[Note/JAVA/Thread states.md",
+    "[Note/JAVA",
+    "[Note",
+    "Note/JAVA/Variables.md",
+    "Note/Arch.md",
+    "Thread states.md",
+    "**Thread states**.md",
+    "Note/JAVA/Operators in Java.md",
     "Note/JAVA/List Interface.md",
+    "temp/Maths.md",
+    "malayalam/topic.md",
+    "temp/TIME TABLE.md",
+    "malayalam",
+    "Note/JAVA/Charterers Streams Vs Bytes Streams.md",
     "Note/JAVA/Collections in java.md",
     "Note/JAVA/Exception handling Keywords.md",
     "temp/Record.md",
-    "temp/Maths.md",
     "Note/JAVA/EXCEPTIONS IN JAVA.md",
     "Note/JAVA/Final KeyWord.md",
     "Note/JAVA/Method Overriding.md",
@@ -188,15 +200,6 @@
     "temp",
     "Note/JAVA/Inheritance.md",
     "Note/JAVA/Interface.md",
-    "Note/Windows.md",
-    "Untitled.canvas",
-    "Note/Vpn.md",
-    "Note/User configs.md",
-    "Note/OS.md",
-    "Note/Main.md",
-    "Note/Git.md",
-    "Note/Cloud.md",
-    "Note/Arch.md",
-    "2025-05-02.md"
+    "Untitled.canvas"
   ]
 }
