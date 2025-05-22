@@ -8,7 +8,7 @@
 - *Public void join(milliseconds)* - It is used to hold a thread to wait for an other thread to finish execution  only for the given time 
 - *Public int getPriority()* - returns the priority of the thread
 - *Public int setPriority(Int priority)* - changes the priority of the thread
-- *Public String gerName()*- returns the name of the thread 
+- *Public String getName()*- returns the name of the thread 
 - *Public void setName(String name)* - change the name of the thread
 - *Public thread currentThread()*- returns the reference of the currently executing thread
 - *Public int getid()* - returns the id of the thread

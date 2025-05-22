@@ -18,7 +18,7 @@ since java 8 static methond is inheritance is posible
 - Interface is a list of conditions that need to be  fulfilled and class is the one that fulfills  these conditions 
 
 ##### Class Extends Class 
-- A class can inherits the properties of an other class using EXTENDS keyword. In which a child class an adopt the properties of a parent class 
+- A class can inherits the properties of an other class using EXTENDS keyword. In which a child class can adopt the properties of a parent class 
 ##### Class Implements Interface
 - In class Implements Interface a class is created that will fulfill all the requirements of the interface  
 ##### Interface Extends Interface 

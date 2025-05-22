@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Note/JAVA/Synchronization And Lock In Java.md",
+                "file": "Note/JAVA/Interface.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Synchronization And Lock In Java"
+              "title": "Interface"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 262.5
+    "width": 263.5
   },
   "right": {
     "id": "0b51c5841c246775",
@@ -170,36 +170,36 @@
   },
   "active": "48dfd29d50ed744b",
   "lastOpenFiles": [
+    "Note/JAVA/Charterers Streams Vs Bytes Streams.md",
+    "Note/JAVA/Constructors.md",
     "Note/JAVA/Unit_2.md",
+    "Note/JAVA/Data Types.md",
+    "Note/JAVA/Collections in java.md",
+    "Note/JAVA/building blocks of OOP.md",
+    "Note/JAVA/EXCEPTIONS IN JAVA.md",
+    "Note/JAVA/Unit 1.5.md",
+    "Note/JAVA/UNIT 1.md",
+    "Note/JAVA/List Interface.md",
+    "Note/JAVA/Methods for threads.md",
+    "Note/JAVA/Thread states.md",
+    "Note/JAVA/Exception handling Keywords.md",
+    "Note/JAVA/Final KeyWord.md",
+    "Note/JAVA/Method Overriding.md",
+    "Note/JAVA/Inheritance.md",
+    "Note/JAVA/Interface.md",
     "Note/JAVA/Synchronization And Lock In Java.md",
     "Note/JAVA/Thread  Scheduling.md",
     "Note/JAVA/Implementation of Thread.md",
+    "Note/JAVA/Threads.md",
     "Note/JAVA/FRATURES OF JAVA.md",
     "temp/TIME TABLE.md",
     "Note/JAVA/Implementation of runnable interface.md",
-    "Note/JAVA/Methods for threads.md",
-    "Note/JAVA/Thread states.md",
     "Note/JAVA/Untitled",
-    "Note/JAVA/Interface.md",
-    "Note/JAVA/Inheritance.md",
-    "Note/JAVA/UNIT 1.md",
-    "Note/JAVA/Unit 1.5.md",
-    "Note/JAVA/Threads.md",
     "Note/JAVA/Variables.md",
     "[Note/JAVA/Thread states.md",
     "[Note/JAVA",
     "[Note",
-    "Note/Arch.md",
-    "Thread states.md",
-    "**Thread states**.md",
-    "Note/JAVA/Operators in Java.md",
-    "Note/JAVA/List Interface.md",
-    "temp/Maths.md",
-    "malayalam/topic.md",
     "malayalam",
-    "Note/JAVA/Charterers Streams Vs Bytes Streams.md",
-    "Note/JAVA/Collections in java.md",
-    "Note/JAVA/Exception handling Keywords.md",
     "temp",
     "Untitled.canvas"
   ]
