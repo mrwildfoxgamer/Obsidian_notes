@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Note/DBMS/QUERY AND PROCESSING AND OPTIMIZATION.md",
-                "mode": "preview",
+                "file": "Note/DBMS/UNIT 4.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "QUERY AND PROCESSING AND OPTIMIZATION"
+              "title": "UNIT 4"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 263.5
+    "width": 261.5
   },
   "right": {
     "id": "0b51c5841c246775",
@@ -170,12 +170,25 @@
   },
   "active": "471789b80f811148",
   "lastOpenFiles": [
+    "Note/DBMS/Introduction Concurrency control.md",
     "Note/DBMS/UNIT 4.md",
-    "Note/DBMS/QUERY AND PROCESSING AND OPTIMIZATION.md",
-    "Note/DBMS/THE RELATIONAL ALGEBRA.md",
-    "Note/DBMS/CoDD's Rules.md",
     "Note/DBMS/UNIT 3.md",
+    "Note/DBMS/Transaction and ACID properties.md",
+    "Note/DBMS/TYPES OF ATTRIBUTES.md",
+    "Note/DBMS/Three Schema Architecture.md",
+    "Note/DBMS/TYPES OF DBMS.md",
+    "Note/DBMS/ER DIAGRAMS.md",
+    "Note/DBMS/ER MODEL.md",
+    "Note/DBMS/CoDD's Rules.md",
+    "Note/DBMS/THE RELATIONAL ALGEBRA.md",
+    "Note/DBMS/System Structures.md",
+    "Note/DBMS/Instance and Schema.md",
+    "Note/DBMS/EVALUATION OF RELATIONAL ALGEBRA.md",
+    "Note/DBMS/Untitled",
+    "Note/DBMS/DBMS.md",
     "Note/DBMS/UNIT 2.md",
+    "Note/DBMS/UNIT 1.md",
+    "Note/DBMS/QUERY AND PROCESSING AND OPTIMIZATION.md",
     "temp/TIME TABLE.md",
     "2025-05-24.md",
     "Main/User configs.md",
@@ -185,18 +198,6 @@
     "Main",
     "Note/JAVA/Unit_2.md",
     "Note/JAVA/Inheritance.md",
-    "Note/JAVA/Interface.md",
-    "Note/JAVA/Objects and Classes.md",
-    "Note/JAVA/Constructors.md",
-    "Note/JAVA/Java Statements.md",
-    "Note/JAVA/building blocks of OOP.md",
-    "Note/JAVA/Operators in Java.md",
-    "Note/JAVA/JAVA.md",
-    "Note/JAVA/Data Types.md",
-    "Note/JAVA/Java Structure.md",
-    "Note/JAVA/Java Tokens.md",
-    "Note/JAVA/JVM.md",
-    "Note/JAVA/FRATURES OF JAVA.md",
     "Note/JAVA/Untitled",
     "[Note/JAVA",
     "[Note",

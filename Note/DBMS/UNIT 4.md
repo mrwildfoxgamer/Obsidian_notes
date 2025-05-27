@@ -1,3 +1,6 @@
 [[DBMS]]
 [[THE RELATIONAL ALGEBRA]]
 [[QUERY AND PROCESSING AND OPTIMIZATION]]
+[[EVALUATION OF RELATIONAL ALGEBRA]]
+[[Transaction and ACID properties]]
+[[Introduction Concurrency control]]
