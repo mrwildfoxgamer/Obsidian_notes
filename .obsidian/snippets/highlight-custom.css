@@ -1,0 +1,11 @@
+/* For live preview/editing mode */
+.cm-highlight {
+  background-color: #7C3AED !important; /* your desired background */
+  color: black !important;             /* your desired text color */
+}
+
+/* For reading mode */
+.mark {
+  background-color: #7C3AED !important;
+  color: black !important;
+}
