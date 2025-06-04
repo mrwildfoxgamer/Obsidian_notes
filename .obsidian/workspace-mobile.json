@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Note/DBMS/Transaction and ACID properties.md",
-                "mode": "preview",
+                "file": "temp/TIME TABLE.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Transaction and ACID properties"
+              "title": "TIME TABLE"
             }
           }
         ]
@@ -99,7 +99,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Note/DBMS/Transaction and ACID properties.md",
+            "file": "Note/DBMS/QUERY AND PROCESSING AND OPTIMIZATION.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -156,13 +156,13 @@
   },
   "active": "a9a13cffcbcc78a8",
   "lastOpenFiles": [
+    "Note/DBMS/QUERY AND PROCESSING AND OPTIMIZATION.md",
+    "Note/DBMS/Transaction and ACID properties.md",
     "Note/DBMS/Introduction Concurrency control.md",
     "Note/DBMS/UNIT 4.md",
     "Note/DBMS/Three Schema Architecture.md",
     "Note/DBMS/THE RELATIONAL ALGEBRA.md",
     "Note/DBMS/TYPES OF ATTRIBUTES.md",
-    "Note/DBMS/Transaction and ACID properties.md",
-    "Note/DBMS/QUERY AND PROCESSING AND OPTIMIZATION.md",
     "Note/DBMS/CoDD's Rules.md",
     "Note/DBMS/EVALUATION OF RELATIONAL ALGEBRA.md",
     "temp/TIME TABLE.md",
