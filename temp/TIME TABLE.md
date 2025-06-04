@@ -25,11 +25,11 @@ Subject: Request for Early Driving Test Appointment
 
 Respected Sir/Madam,
 
-I am writing to kindly request an early appointment for my driving test. I am a student and my college is scheduled to reopen next month in Kochi. Since Kochi is quite a distance from Alappuzha, having a driving license would greatly help me with commuting and managing my studies effectively.
+I am writing to kindly request an early appointment for my driving test. I am a student and my college is scheduled to reopen next month
 
 I understand that appointments are subject to availability, but I would be sincerely grateful if my test could be scheduled at the earliest possible date.
 
-I am ready to comply with any required formalities or documentation to expedite the process. Kindly consider my request favorably.
+Kindly consider my request favorably.
 
 Thank you for your time and understanding.
 
