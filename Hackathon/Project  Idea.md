@@ -222,8 +222,8 @@ These decisions depend on six factors
 
 Currently, these are tracked in separate spreadsheet, logbooks,WhatsApp updates and supervisors make decisions manually in just 2 hours. 
 So the issue with current method 
-	1.	Risk of mistakes as when supervisors picks a train to service for the day and when it missing telecom clearance or fitness certificates , the team might get out of the service and it may affect the whole schedule of the day. 
-	2.	Uneven mileage: can cause faster wear and higher maintenance cost. 
+	1.	Risk of mistakes as when supervisors picks a train to service for the day and when its missing telecom clearance or fitness certificates , the team might get out of the service and it may affect the whole schedule of the day. 
+	2.	Uneven mileage:It can cause faster wear and higher maintenance cost. 
 
 So we came up with a solution that is Unified centralized live dashboard for KMRL that simplifies the decision making of the supervisor by collecting all the data and making it accessible in a single unified platform. 
 
