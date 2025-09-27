@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Filim appriciation/5Th Frame.md",
+                "file": "Hackathon/SIH.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5Th Frame"
+              "title": "SIH"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "969dbde38df2e524",
@@ -172,13 +171,16 @@
   },
   "active": "86dab98336c92d55",
   "lastOpenFiles": [
-    "Untitled/Temp.md",
-    "Filim appriciation/5Th Frame.md",
-    "Filim appriciation",
-    "Untitled.base",
-    "Untitled 1.base",
     "Hackathon/Project  Idea.md",
+    "Hackathon/SIH.md",
+    "Obsidian_notes/Main/Git.md",
+    "Obsidian_notes/Main/Vpn.md",
+    "Untitled 1.base",
+    "Untitled.base",
     "Hackathon/temp.md",
+    "Filim appriciation/5Th Frame.md",
+    "Untitled/Temp.md",
+    "Filim appriciation",
     "Untitled 4.base",
     "Untitled 6.base",
     "Untitled 5.base",
@@ -194,7 +196,6 @@
     "Obsidian_notes/Note/OS.md",
     "Untitled",
     "temp.md",
-    "Obsidian_notes/Main/Git.md",
     "Obsidian_notes/Main/Rust.md",
     "Obsidian_notes/Main/Local.md",
     "Obsidian_notes/Main/Programming.md",
