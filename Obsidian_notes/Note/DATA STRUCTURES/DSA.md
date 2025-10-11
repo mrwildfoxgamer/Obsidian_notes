@@ -1,3 +1,6 @@
 [[Introduction To Data Structures]]
 [[Use Of Data Structures]]
 [[Arrays and Pointers]]
+[[Linked List]]
+[[Types of Linked List]]
+[[Operations on a singly Linked List]]
