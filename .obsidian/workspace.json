@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian_notes/Note/DATA STRUCTURES/Inserting.md",
-                "mode": "preview",
+                "file": "Obsidian_notes/Note/DATA STRUCTURES/Deleting.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Inserting"
+              "title": "Deleting"
             }
           }
         ]
@@ -172,15 +172,16 @@
   },
   "active": "ea88337bed0a909b",
   "lastOpenFiles": [
+    "Obsidian_notes/Note/DATA STRUCTURES/Inserting.md",
+    "Obsidian_notes/Note/DATA STRUCTURES/Use Of Data Structures.md",
+    "Obsidian_notes/Note/DATA STRUCTURES/Deleting.md",
     "Obsidian_notes/Note/DATA STRUCTURES/Operations on a singly Linked List.md",
     "Obsidian_notes/Note/DATA STRUCTURES/DSA.md",
+    "Obsidian_notes/Note/DATA STRUCTURES/Introduction To Data Structures.md",
     "Obsidian_notes/Note/DATA STRUCTURES/Types of Linked List.md",
-    "Obsidian_notes/Note/DATA STRUCTURES/Inserting.md",
     "Obsidian_notes/Note/DATA STRUCTURES/Traversing.md",
     "Obsidian_notes/Note/DATA STRUCTURES/Linked List.md",
     "Obsidian_notes/Note/DATA STRUCTURES/Arrays and Pointers.md",
-    "Obsidian_notes/Note/DATA STRUCTURES/Use Of Data Structures.md",
-    "Obsidian_notes/Note/DATA STRUCTURES/Introduction To Data Structures.md",
     "Untitled/Time Table.md",
     "Obsidian_notes/Note/DATA STRUCTURES",
     "Obsidian_notes/Note/DATA STRUCTURES.md",
@@ -206,7 +207,6 @@
     "Obsidian_notes/Note/OS/System calls.md",
     "Obsidian_notes/Note/OS/Operating System Services.md",
     "Obsidian_notes/Note/OS/OPERATING SYSTEM.md",
-    "Obsidian_notes/Note/OS",
-    "Obsidian_notes/Note/OS.md"
+    "Obsidian_notes/Note/OS"
   ]
 }
