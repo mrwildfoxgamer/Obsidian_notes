@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian_notes/Note/DATA STRUCTURES/Operations on a singly Linked List.md",
-                "mode": "source",
+                "file": "Obsidian_notes/Note/DATA STRUCTURES/Inserting.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Operations on a singly Linked List"
+              "title": "Inserting"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "969dbde38df2e524",
@@ -171,9 +172,11 @@
   },
   "active": "ea88337bed0a909b",
   "lastOpenFiles": [
-    "Obsidian_notes/Note/DATA STRUCTURES/DSA.md",
     "Obsidian_notes/Note/DATA STRUCTURES/Operations on a singly Linked List.md",
+    "Obsidian_notes/Note/DATA STRUCTURES/DSA.md",
     "Obsidian_notes/Note/DATA STRUCTURES/Types of Linked List.md",
+    "Obsidian_notes/Note/DATA STRUCTURES/Inserting.md",
+    "Obsidian_notes/Note/DATA STRUCTURES/Traversing.md",
     "Obsidian_notes/Note/DATA STRUCTURES/Linked List.md",
     "Obsidian_notes/Note/DATA STRUCTURES/Arrays and Pointers.md",
     "Obsidian_notes/Note/DATA STRUCTURES/Use Of Data Structures.md",
@@ -204,8 +207,6 @@
     "Obsidian_notes/Note/OS/Operating System Services.md",
     "Obsidian_notes/Note/OS/OPERATING SYSTEM.md",
     "Obsidian_notes/Note/OS",
-    "Obsidian_notes/Note/OS.md",
-    "temp.md",
-    "Obsidian_notes/Main/Rust.md"
+    "Obsidian_notes/Note/OS.md"
   ]
 }

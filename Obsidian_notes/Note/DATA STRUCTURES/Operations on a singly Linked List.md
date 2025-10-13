@@ -1,6 +1,6 @@
 [[DSA]]
-- Traversing 
-- Inserting
+- Traversing
+- [[Inserting]]
 	1. inserting an element at the beginning of the list  
 	2. Inserting an element at the end of the list
 	3. inserting an element at the specified position in the list 
