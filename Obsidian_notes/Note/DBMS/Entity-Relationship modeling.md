@@ -1,4 +1,4 @@
-[[UNIT 2]] 
+[[Obsidian_notes/Note/DBMS/UNIT 2]] 
 #### Entity set
 *An Entity set Contains all the Entities with similar properties*
 #### Attributes 

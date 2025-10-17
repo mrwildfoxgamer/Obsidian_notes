@@ -1,4 +1,4 @@
-[[UNIT 2]][[DBMS/UNIT 1|UNIT 1]]
+[[Obsidian_notes/Note/DBMS/UNIT 2]][[DBMS/UNIT 1|UNIT 1]]
 - **Data Query:** Extracting information form the tables
 - **Data Manipulation:** Insert update deleting records 
 - **Data Definition:** Creating and modifying database objects like tables indexes and views 

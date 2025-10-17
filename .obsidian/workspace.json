@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian_notes/Note/DATA STRUCTURES/Deleting.md",
+                "file": "Obsidian_notes/Note/WEB/JAVA SCRIPT.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Deleting"
+              "title": "JAVA SCRIPT"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 367.5004348754883
   },
   "right": {
     "id": "969dbde38df2e524",
@@ -172,41 +171,42 @@
   },
   "active": "ea88337bed0a909b",
   "lastOpenFiles": [
+    "Obsidian_notes/Note/WEB/HTML and CSS.md",
+    "Obsidian_notes/Note/WEB/JAVA SCRIPT.md",
+    "Obsidian_notes/Note/WEB/Web Technology.md",
+    "Obsidian_notes/Note/WEB",
+    "Obsidian_notes/Note/OS/PCB.md",
+    "Obsidian_notes/Note/OS/OS UNIT 2.md",
+    "Obsidian_notes/Note/OS/System calls.md",
+    "Obsidian_notes/Note/OS/Process Synchronization.md",
+    "Obsidian_notes/Note/OS/MUTEX.md",
+    "Pasted image 20251014194816.png",
+    "Obsidian_notes/Note/OS/Process management.md",
+    "Obsidian_notes/Note/OS/Operating system structure UNIT 1.md",
+    "Obsidian_notes/Note/OS/OPERATING SYSTEM.md",
+    "Obsidian_notes/Note/OS/System Programs.md",
+    "Obsidian_notes/Note/OS/Operating System Services.md",
     "Obsidian_notes/Note/DATA STRUCTURES/Inserting.md",
-    "Obsidian_notes/Note/DATA STRUCTURES/Use Of Data Structures.md",
-    "Obsidian_notes/Note/DATA STRUCTURES/Deleting.md",
     "Obsidian_notes/Note/DATA STRUCTURES/Operations on a singly Linked List.md",
     "Obsidian_notes/Note/DATA STRUCTURES/DSA.md",
-    "Obsidian_notes/Note/DATA STRUCTURES/Introduction To Data Structures.md",
     "Obsidian_notes/Note/DATA STRUCTURES/Types of Linked List.md",
-    "Obsidian_notes/Note/DATA STRUCTURES/Traversing.md",
     "Obsidian_notes/Note/DATA STRUCTURES/Linked List.md",
     "Obsidian_notes/Note/DATA STRUCTURES/Arrays and Pointers.md",
+    "Obsidian_notes/Note/DATA STRUCTURES/Use Of Data Structures.md",
+    "Obsidian_notes/Note/DATA STRUCTURES/Introduction To Data Structures.md",
+    "Untitled 1.base",
+    "Untitled.base",
+    "Obsidian_notes/Note/DATA STRUCTURES/Deleting.md",
+    "Obsidian_notes/Note/DATA STRUCTURES/Traversing.md",
     "Untitled/Time Table.md",
     "Obsidian_notes/Note/DATA STRUCTURES",
     "Obsidian_notes/Note/DATA STRUCTURES.md",
-    "Untitled.base",
     "Untitled/Temp.md",
-    "Hackathon/NASA Space app Challenge 2025.md",
-    "Filim appriciation/5Th Frame.md",
-    "Hackathon/Project  Idea.md",
-    "Hackathon/SIH.md",
-    "Obsidian_notes/Main/Git.md",
-    "Obsidian_notes/Main/Vpn.md",
-    "Untitled 1.base",
-    "Hackathon/temp.md",
     "Filim appriciation",
     "Untitled 4.base",
     "Untitled 6.base",
     "Untitled 5.base",
     "Untitled 3.base",
-    "Untitled 2.base",
-    "Obsidian_notes/Note/OS/Operating system structure UNIT 1.md",
-    "Obsidian_notes/Note/OS/SOFTWARE.md",
-    "Obsidian_notes/Note/OS/System Programs.md",
-    "Obsidian_notes/Note/OS/System calls.md",
-    "Obsidian_notes/Note/OS/Operating System Services.md",
-    "Obsidian_notes/Note/OS/OPERATING SYSTEM.md",
-    "Obsidian_notes/Note/OS"
+    "Untitled 2.base"
   ]
 }

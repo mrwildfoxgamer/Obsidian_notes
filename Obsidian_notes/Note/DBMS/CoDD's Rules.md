@@ -1,4 +1,4 @@
-[[UNIT 2]]
+[[Obsidian_notes/Note/DBMS/UNIT 2]]
 1. **The information Rule** - All data should be presented in a table form 
 2. **Guaranteed Access Rule** - All data should be accessible without ambiguity
 3. **Systematic Treatment of Null values Rule** - A field should be allowed to remain empty 

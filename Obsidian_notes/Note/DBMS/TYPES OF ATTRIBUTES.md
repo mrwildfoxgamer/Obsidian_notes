@@ -1,4 +1,4 @@
-[[UNIT 2]]
+[[Obsidian_notes/Note/DBMS/UNIT 2]]
 #### Simple Attribute
 - A simple attribute cannot be divided or broken into smaller parts `age`
 #### Composite Attribute
