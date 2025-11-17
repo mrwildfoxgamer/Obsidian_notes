@@ -4,3 +4,5 @@
 [[Linked List]]
 [[Types of Linked List]]
 [[Operations on a singly Linked List]]
+[[Doubly linked list]]
+[[circular linked list]]
