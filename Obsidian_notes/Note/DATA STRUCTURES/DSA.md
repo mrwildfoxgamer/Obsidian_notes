@@ -6,3 +6,4 @@
 [[Operations on a singly Linked List]]
 [[Doubly linked list]]
 [[circular linked list]]
+[[Stack]]
