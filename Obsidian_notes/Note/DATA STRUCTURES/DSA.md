@@ -10,3 +10,4 @@
 [[TREE]]
 [[TYPES OF TREES]]
 [[Types of Binary Tree]]
+[[Graphs]]
