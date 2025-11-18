@@ -7,3 +7,6 @@
 [[Doubly linked list]]
 [[circular linked list]]
 [[Stack]]
+[[TREE]]
+[[TYPES OF TREES]]
+[[Types of Binary Tree]]
