@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian_notes/Note/DATA STRUCTURES/Graphs.md",
+                "file": "Obsidian_notes/Note/DATA STRUCTURES/Queue.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Graphs"
+              "title": "Queue"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 367.5004348754883,
-    "collapsed": true
+    "width": 367.5004348754883
   },
   "right": {
     "id": "969dbde38df2e524",
@@ -172,8 +171,9 @@
   },
   "active": "70acb4e395d55d8d",
   "lastOpenFiles": [
-    "Obsidian_notes/Note/DATA STRUCTURES/DSA.md",
     "Obsidian_notes/Note/DATA STRUCTURES/Graphs.md",
+    "Obsidian_notes/Note/DATA STRUCTURES/Queue.md",
+    "Obsidian_notes/Note/DATA STRUCTURES/DSA.md",
     "Obsidian_notes/Note/DATA STRUCTURES/Types of Binary Tree.md",
     "Pasted image 20251119015214.png",
     "Obsidian_notes/Note/DATA STRUCTURES/TYPES OF TREES.md",
@@ -202,7 +202,6 @@
     "Obsidian_notes/Note/OS/PCB.md",
     "Obsidian_notes/Note/OS/OS UNIT 2.md",
     "Obsidian_notes/Note/OS/System calls.md",
-    "Obsidian_notes/Note/OS/Process Synchronization.md",
     "Obsidian_notes/Note/DATA STRUCTURES",
     "Filim appriciation",
     "Untitled 4.base",
