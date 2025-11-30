@@ -1,13 +1,14 @@
+[[Process Synchronization]]
 [[OS UNIT 2]]
 
-Mutex is a Binary semaphore it can have can have the values 0 and 1
+Mutex (Mutual Exclusion Lock)  is a Binary semaphore it can have can have the values 0 and 1
 - `1` → available (unlocked)
     
 - `0` → not available (locked)
 
 It is used to make sure that at a time only one process or thread can enter a critical section at a time 
 
-`critical section is a part of the coode where shared resoruce are accessd`
+`critical section is a part of the code where shared resoruce are accessd`
 
 **Initial condition**
 - `mutex=1`

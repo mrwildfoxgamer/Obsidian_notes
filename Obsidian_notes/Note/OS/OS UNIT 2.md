@@ -2,3 +2,5 @@
 [[PCB]]
 [[Process Synchronization]]
 [[MUTEX]]
+[[Semaphore]]
+[[Process Scheduling]]

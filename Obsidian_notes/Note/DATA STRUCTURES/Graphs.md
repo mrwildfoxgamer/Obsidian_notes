@@ -1,16 +1,16 @@
 [[DSA]]
 
 
-* A Graph consists of a set od Vertices and nodes and edges connecting the pair of vertices
+* A Graph consists of a set of Vertices and nodes and edges connecting the pair of vertices
 * Some times edges have weight/cost creating a weighted graph
-		The two types of edges are Uncorrected and directed 
+		The two types of edges are Un-directed and directed 
 
 ## Basic Terminology 
 
 **Adjacency**
 
 - vertex u is adjacent to vertex v if there is an edge connecting it
-**Incidence Edge
+**Incidence Edge**
 - An edge is incident if one of end points in another vertex
 **Degree**
 - degree in un-directed graph means the number of edges incident on a vertex

@@ -29,9 +29,9 @@
 
 - **Number of nodes = Number of edges + 1**
     
-- **Maximum number of nodes at level _i_** = 2^i
+- **Maximum number of nodes at level _i_** = 2<sup>i
     
-- **Maximum number of nodes in a binary tree of height _h_** = 2^(h + 1) − 1
+- **Maximum number of nodes in a binary tree of height _h_** = 2<sup>(h + 1) − 1
     
 - **Minimum number of nodes in a binary tree of height _h_** = h + 1
     

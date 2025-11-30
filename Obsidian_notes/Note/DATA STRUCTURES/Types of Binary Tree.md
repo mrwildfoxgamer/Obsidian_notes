@@ -33,7 +33,7 @@ expression tree uses mathematical operation at the top and numbers at the bottem
 4. Add the value there
 
 **Deletion**
-1. Lead node 
+1. Leaf node 
 - Delete the node
 2. Node with only one child
 - Replace the node with the child 

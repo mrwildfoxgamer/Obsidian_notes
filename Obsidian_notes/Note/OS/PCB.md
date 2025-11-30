@@ -27,4 +27,10 @@ Registers are the fastest memory in a computer system They allow the cpu to acce
 | memory data register     | holds data being transferred to and from memory   |
 | General purpose Register | temporarly store data variables or results        |
 | stack pointers           | points to the top of the stack in memory          |
-   
+
+
+## Context Switching 
+- When the cpu switches to another process the system saves the state of the old process and then loads the state of the new process via context switching 
+- Context of a process is represented in the pcb
+- During context switching the system does not do any useful work 
+- The more complex the pcb and the os more time it takes 
