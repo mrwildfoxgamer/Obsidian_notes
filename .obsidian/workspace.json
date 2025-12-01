@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "d3ee0efbe18a5752",
+        "id": "6ce21b8336ced131",
         "type": "tabs",
         "children": [
           {
-            "id": "3cc7f88bcfcfe000",
+            "id": "b013ae461e7aa2d9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian_notes/Note/OS/Process Scheduling.md",
+                "file": "Obsidian_notes/Note/OS/Dead Lock.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Process Scheduling"
+              "title": "Dead Lock"
             }
           }
         ]
@@ -34,19 +34,6 @@
         "id": "83b32ef61f0d1b08",
         "type": "tabs",
         "children": [
-          {
-            "id": "e4f981bd726bc639",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
-            }
-          },
           {
             "id": "5df92cbc2f9b1e7d",
             "type": "leaf",
@@ -73,12 +60,27 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
+          },
+          {
+            "id": "d0a87b0b5593d2fe",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 367.5004348754883
+    "width": 367.5004348754883,
+    "collapsed": true
   },
   "right": {
     "id": "969dbde38df2e524",
@@ -160,7 +162,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:Create new base": false,
+      "bases:Create new base": true,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -169,22 +171,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3cc7f88bcfcfe000",
+  "active": "b013ae461e7aa2d9",
   "lastOpenFiles": [
-    "Obsidian_notes/Note/OS/OS UNIT 2.md",
-    "Obsidian_notes/Note/OS/Process Scheduling.md",
-    "Obsidian_notes/Note/OS/PCB.md",
-    "Obsidian_notes/Note/OS/Process management.md",
-    "Obsidian_notes/Note/OS/MUTEX.md",
-    "Obsidian_notes/Note/OS/Operating system structure UNIT 1.md",
+    "Obsidian_notes/Note/OS/OS Unit 3.md",
+    "Obsidian_notes/Note/OS/Dead Lock.md",
+    "Untitled/OS temp.md",
+    "Untitled/Programs.md",
+    "Untitled.base",
     "Obsidian_notes/Note/OS/System Programs.md",
+    "Obsidian_notes/Note/OS/Operating system structure UNIT 1.md",
     "Obsidian_notes/Note/OS/System calls.md",
     "Obsidian_notes/Note/OS/OPERATING SYSTEM.md",
-    "Obsidian_notes/Note/OS/Semaphore.md",
-    "Obsidian_notes/Note/OS/Process Synchronization.md",
-    "Obsidian_notes/Note/DBMS/UNIT 4.md",
     "Obsidian_notes/Note/OS/Operating System Services.md",
+    "Obsidian_notes/Note/OS/OS UNIT 2.md",
+    "Obsidian_notes/Note/OS/Process management.md",
+    "Obsidian_notes/Note/OS/Process Scheduling.md",
+    "Obsidian_notes/Note/OS/PCB.md",
+    "Obsidian_notes/Note/OS/Process Synchronization.md",
+    "Obsidian_notes/Note/OS/Semaphore.md",
+    "Obsidian_notes/Note/OS/MUTEX.md",
+    "Pasted image 20251014194816.png",
     "Untitled/Time Table.md",
+    "Obsidian_notes/Note/DBMS/UNIT 4.md",
     "Obsidian_notes/Note/DATA STRUCTURES/DSA.md",
     "Obsidian_notes/Note/DATA STRUCTURES/Graphs.md",
     "Obsidian_notes/Note/DATA STRUCTURES/Types of Binary Tree.md",
@@ -193,14 +201,8 @@
     "Obsidian_notes/Note/DATA STRUCTURES/Stack.md",
     "Obsidian_notes/Note/DATA STRUCTURES/circular linked list.md",
     "Obsidian_notes/Note/DATA STRUCTURES/Doubly linked list.md",
-    "Obsidian_notes/Note/DATA STRUCTURES/Operations on a singly Linked List.md",
-    "Obsidian_notes/Note/DATA STRUCTURES/Deleting.md",
-    "Obsidian_notes/Note/DATA STRUCTURES/Inserting.md",
-    "Obsidian_notes/Note/DATA STRUCTURES/Types of Linked List.md",
     "Pasted image 20251119015214.png",
-    "Untitled.base",
     "Untitled 1.base",
-    "Pasted image 20251014194816.png",
     "Obsidian_notes/Note/WEB",
     "Obsidian_notes/Note/DATA STRUCTURES",
     "Filim appriciation",
