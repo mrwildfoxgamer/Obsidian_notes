@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian_notes/Note/OS/Process Synchronization.md",
+                "file": "Obsidian_notes/Note/OS/Semaphore.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Process Synchronization"
+              "title": "Semaphore"
             }
           }
         ]
@@ -98,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Obsidian_notes/Note/OS/Process Synchronization.md",
+            "file": "Obsidian_notes/Note/OS/Semaphore.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -157,12 +157,13 @@
   "active": "9cd18e81aff8e9e8",
   "lastOpenFiles": [
     "Obsidian_notes/Note/OS/OS UNIT 2.md",
+    "Obsidian_notes/Note/OS/Semaphore.md",
     "Obsidian_notes/Note/OS/Process Synchronization.md",
+    "Obsidian_notes/Note/OS/MUTEX.md",
     "Obsidian_notes/Note/OS/PCB.md",
     "Obsidian_notes/Note/OS/Process management.md",
     "Obsidian_notes/Note/OS/Dead Lock.md",
     "Obsidian_notes/Note/OS/OS Unit 3.md",
-    "Obsidian_notes/Note/OS/MUTEX.md",
     "Obsidian_notes/Note/DATA STRUCTURES/DSA.md",
     "Untitled/Time Table.md"
   ]
