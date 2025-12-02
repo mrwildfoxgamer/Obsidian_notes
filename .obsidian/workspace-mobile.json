@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian_notes/Note/OS/Semaphore.md",
+                "file": "Obsidian_notes/Note/OS/Process Scheduling.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Semaphore"
+              "title": "Process Scheduling"
             }
           }
         ]
@@ -98,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Obsidian_notes/Note/OS/Semaphore.md",
+            "file": "Obsidian_notes/Note/OS/Process Scheduling.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -157,8 +157,9 @@
   "active": "9cd18e81aff8e9e8",
   "lastOpenFiles": [
     "Obsidian_notes/Note/OS/OS UNIT 2.md",
-    "Obsidian_notes/Note/OS/Semaphore.md",
     "Obsidian_notes/Note/OS/Process Synchronization.md",
+    "Obsidian_notes/Note/OS/Process Scheduling.md",
+    "Obsidian_notes/Note/OS/Semaphore.md",
     "Obsidian_notes/Note/OS/MUTEX.md",
     "Obsidian_notes/Note/OS/PCB.md",
     "Obsidian_notes/Note/OS/Process management.md",
