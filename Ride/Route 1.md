@@ -1,0 +1,15 @@
+- [ ] Malayatoor Planataion
+- [ ] Kalady plantation
+- [ ] Njandamkuth waterfalls
+- [ ] Athirapally waterfalls
+- [ ] Bamboo forest
+- [ ] Charpa Waterfalss
+- [ ] Vazhacal waterfalls
+- [ ] Vazhacal Bridge
+- [ ] Peringalkuthu Reservoir View Point
+- [ ] Elephant Zone
+- [ ] Anakkayam narrow bridge
+- [ ] Pen Stock Pipes View Point
+- [ ] Sholayar Reservoir View Point
+- [ ] # Lower Sholayar Dam
+- [ ] Forest and river view point
