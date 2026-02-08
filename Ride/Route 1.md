@@ -11,5 +11,5 @@
 - [ ] Anakkayam narrow bridge
 - [ ] Pen Stock Pipes View Point
 - [ ] Sholayar Reservoir View Point
-- [ ] # Lower Sholayar Dam
+- [ ] Lower Sholayar Dam
 - [ ] Forest and river view point
