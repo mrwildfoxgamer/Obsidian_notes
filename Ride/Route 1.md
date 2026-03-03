@@ -13,3 +13,8 @@
 - [ ] Sholayar Reservoir View Point
 - [ ] Lower Sholayar Dam
 - [ ] Forest and river view point
+
+
+
+# Route 2
+Munnar.vattavada,mamalakandam,athirapally route,vagamon
