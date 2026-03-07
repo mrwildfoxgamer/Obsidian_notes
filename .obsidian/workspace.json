@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian_notes/Note/DAA/UNIT 2.md",
+                "file": "Obsidian_notes/Note/Computer Networks/DataLink Layer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "UNIT 2"
+              "title": "DataLink Layer"
             }
           }
         ]
@@ -173,8 +173,13 @@
   },
   "active": "816e1e460e4f3d23",
   "lastOpenFiles": [
-    "Obsidian_notes/Note/DAA/UNIT 3.md",
+    "Obsidian_notes/Note/Computer Networks/UNIT 1.md",
+    "Obsidian_notes/Note/Computer Networks/DataLink Layer.md",
+    "Ride/Route 1.md",
+    "Obsidian_notes/Note/Computer Networks",
+    "Obsidian_notes/Note/Untitled.md",
     "Obsidian_notes/Note/DAA/UNIT 2.md",
+    "Obsidian_notes/Note/DAA/UNIT 3.md",
     "Obsidian_notes/Note/DAA/UNIT 1.md",
     "Obsidian_notes/Note/Full stack Frame work/NPM.md",
     "Obsidian_notes/Note/Full stack Frame work/Express.js.md",
@@ -187,9 +192,7 @@
     "Obsidian_notes/Note/Full stack Frame work/UNIT 1.md",
     "Obsidian_notes/Note/Full stack Frame work/Mongo DB.md",
     "Obsidian_notes/Note/COA/UNIT 1.md",
-    "Ride/Route 1.md",
     "Obsidian_notes/Note/Full stack Frame work",
-    "Obsidian_notes/Note/Untitled.md",
     "Ride/Untitled 1/Untitled.md",
     "Ride/Untitled 1",
     "Ride",
@@ -203,13 +206,10 @@
     "Obsidian_notes/Note/OS/Operating System Services.md",
     "Obsidian_notes/Note/OS/OPERATING SYSTEM.md",
     "Untitled.base",
-    "Obsidian_notes/Note/OS/Process management.md",
-    "Obsidian_notes/Note/OS/Process Scheduling.md",
     "Pasted image 20251014194816.png",
     "Pasted image 20251119015214.png",
     "Untitled 1.base",
     "Obsidian_notes/Note/WEB",
-    "Obsidian_notes/Note/DATA STRUCTURES",
-    "Filim appriciation"
+    "Obsidian_notes/Note/DATA STRUCTURES"
   ]
 }
