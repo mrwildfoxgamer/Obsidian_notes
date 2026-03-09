@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian_notes/Note/Computer Networks/DataLink Layer.md",
+                "file": "Obsidian_notes/Note/Computer Networks/Network Devices.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DataLink Layer"
+              "title": "Network Devices"
             }
           }
         ]
@@ -74,8 +74,7 @@
               "title": "Files"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -173,8 +172,10 @@
   },
   "active": "816e1e460e4f3d23",
   "lastOpenFiles": [
-    "Obsidian_notes/Note/Computer Networks/UNIT 1.md",
+    "Obsidian_notes/Note/Computer Networks/Flow Control.md",
+    "Obsidian_notes/Note/Computer Networks/Network Devices.md",
     "Obsidian_notes/Note/Computer Networks/DataLink Layer.md",
+    "Obsidian_notes/Note/Computer Networks/UNIT 1.md",
     "Ride/Route 1.md",
     "Obsidian_notes/Note/Computer Networks",
     "Obsidian_notes/Note/Untitled.md",
@@ -203,8 +204,6 @@
     "Obsidian_notes/Note/OS/Operating system structure UNIT 1.md",
     "Obsidian_notes/Note/OS/System Programs.md",
     "Obsidian_notes/Note/OS/System calls.md",
-    "Obsidian_notes/Note/OS/Operating System Services.md",
-    "Obsidian_notes/Note/OS/OPERATING SYSTEM.md",
     "Untitled.base",
     "Pasted image 20251014194816.png",
     "Pasted image 20251119015214.png",
