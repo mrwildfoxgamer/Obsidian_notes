@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian_notes/Note/Computer Networks/Network Devices.md",
+                "file": "Obsidian_notes/Note/DAA/UNIT 4.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Network Devices"
+              "title": "UNIT 4"
             }
           }
         ]
@@ -74,7 +74,8 @@
               "title": "Files"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -172,16 +173,17 @@
   },
   "active": "816e1e460e4f3d23",
   "lastOpenFiles": [
-    "Obsidian_notes/Note/Computer Networks/Flow Control.md",
+    "Obsidian_notes/Note/DAA/UNIT 1.md",
+    "Obsidian_notes/Note/DAA/UNIT 2.md",
+    "Obsidian_notes/Note/DAA/UNIT 3.md",
+    "Obsidian_notes/Note/DAA/UNIT 4.md",
     "Obsidian_notes/Note/Computer Networks/Network Devices.md",
+    "Obsidian_notes/Note/Computer Networks/Flow Control.md",
     "Obsidian_notes/Note/Computer Networks/DataLink Layer.md",
     "Obsidian_notes/Note/Computer Networks/UNIT 1.md",
     "Ride/Route 1.md",
     "Obsidian_notes/Note/Computer Networks",
     "Obsidian_notes/Note/Untitled.md",
-    "Obsidian_notes/Note/DAA/UNIT 2.md",
-    "Obsidian_notes/Note/DAA/UNIT 3.md",
-    "Obsidian_notes/Note/DAA/UNIT 1.md",
     "Obsidian_notes/Note/Full stack Frame work/NPM.md",
     "Obsidian_notes/Note/Full stack Frame work/Express.js.md",
     "Obsidian_notes/Note/DAA",
@@ -203,7 +205,6 @@
     "Obsidian_notes/Note/OS/OS UNIT 2.md",
     "Obsidian_notes/Note/OS/Operating system structure UNIT 1.md",
     "Obsidian_notes/Note/OS/System Programs.md",
-    "Obsidian_notes/Note/OS/System calls.md",
     "Untitled.base",
     "Pasted image 20251014194816.png",
     "Pasted image 20251119015214.png",

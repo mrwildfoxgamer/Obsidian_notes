@@ -1,4 +1,4 @@
-[[UNIT 4]]
+[[Obsidian_notes/Note/DBMS/UNIT 4]]
 
 - *The relational Algebra is a set of rules used to get data from a data base*
 - *It helps to ask questions about the database*

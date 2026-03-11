@@ -1,4 +1,4 @@
-[[UNIT 4]]
+[[Obsidian_notes/Note/DBMS/UNIT 4]]
 
 *An  SQL Query must be Scanner parsed and validated*
 

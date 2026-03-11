@@ -1,4 +1,4 @@
-[[UNIT 4]]
+[[Obsidian_notes/Note/DBMS/UNIT 4]]
 
 *Concurrency means that multiple transactions can be ran together in the system*
 - *These can Increase the utilization of the Processor and disk leading to better transaction throughput*

@@ -1,4 +1,4 @@
-[[UNIT 4]]
+[[Obsidian_notes/Note/DBMS/UNIT 4]]
 #### Transaction
 A Transaction is a group of operations that are done together it include reading updating data  To make sure the database stays correct the system follows  ACID rules
 

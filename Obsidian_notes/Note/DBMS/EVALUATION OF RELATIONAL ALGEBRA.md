@@ -1,4 +1,4 @@
-[[UNIT 4]]
+[[Obsidian_notes/Note/DBMS/UNIT 4]]
 
 - When you run an SQL query its first converted into relation algebra expression which is shown as a query tree
 - the query is broken into smaller blocks called query blocks 
