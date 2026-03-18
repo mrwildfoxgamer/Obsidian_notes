@@ -12,7 +12,7 @@
 *The content of the web page stays the same each time the web page is loaded*
 - *They are easy and cheap to develop and host*
 - Requires web development skills to update the site not as useful for the user
-- The source code should be edited in order to make updates
+		- The source code should be edited in order to make updates
 
 ## Dynamic Web page
 *The content of the web page changes with new information*
