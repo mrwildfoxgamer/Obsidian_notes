@@ -1,0 +1,3 @@
+`The FP-Growth or Frequent Pattern Growth algorithm is an advancement to the apriorialgorithm. While using the apriori algorithm for association rule mining, we need to scan the transaction dataset multiple times. In the FP growth algorithm, we just need to scan the dataset twice`
+
+- An FP-Tree is a tree data structure created from the transaction data while generating frequent itemsets in the FP growth algorithm
