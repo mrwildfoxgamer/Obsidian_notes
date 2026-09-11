@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian_notes/Note/DAA/Graph.md",
+                "file": "Obsidian_notes/Note/Machine Learning/Decision Tree.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Graph"
+              "title": "Decision Tree"
             }
           }
         ]
@@ -68,7 +68,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -173,8 +175,14 @@
   },
   "active": "0e963215724403f5",
   "lastOpenFiles": [
-    "Obsidian_notes/Note/DAA/Unit 5.md",
+    "Obsidian_notes/Note/Machine Learning/Logistic Regression.md",
+    "Obsidian_notes/Note/Machine Learning/Decision Tree.md",
+    "Obsidian_notes/Note/Machine Learning/Bias and Variance.md",
+    "Obsidian_notes/Note/Machine Learning/UNIT 1.md",
+    "Untitled.md",
     "Obsidian_notes/Note/DAA/Graph.md",
+    "Obsidian_notes/Note/Machine Learning",
+    "Obsidian_notes/Note/DAA/Unit 5.md",
     "Pasted image 20260428034847.png",
     "Pasted image 20260428034314.png",
     "Pasted image 20260428032753.png",
@@ -202,20 +210,14 @@
     "Obsidian_notes/Note/Full stack Frame work/UNIT 1.md",
     "Obsidian_notes/Note/Computer Networks/Network Devices.md",
     "Obsidian_notes/Note/Computer Networks/Flow Control.md",
-    "Obsidian_notes/Note/Computer Networks/DataLink Layer.md",
-    "Obsidian_notes/Note/Computer Networks/UNIT 1.md",
-    "Ride/Route 1.md",
     "Obsidian_notes/Note/Computer Networks",
     "Obsidian_notes/Note/DAA",
-    "Untitled/Time Table.md",
-    "Untitled/Programs.md",
     "Obsidian_notes/Note/Full stack Frame work",
     "Ride/Untitled 1",
     "Ride",
     "Obsidian_notes/Note/COA",
     "Untitled.base",
     "Pasted image 20251014194816.png",
-    "Pasted image 20251119015214.png",
-    "Untitled 1.base"
+    "Pasted image 20251119015214.png"
   ]
 }
