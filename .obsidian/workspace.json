@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian_notes/Note/Python Frameworks/Flask.md",
+                "file": "Obsidian_notes/Note/Artificial inteligence/unit 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Flask"
+              "title": "unit 2"
             }
           }
         ]
@@ -81,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 367.5004348754883,
-    "collapsed": true
+    "width": 367.5004348754883
   },
   "right": {
     "id": "969dbde38df2e524",
@@ -175,14 +174,19 @@
   },
   "active": "0e963215724403f5",
   "lastOpenFiles": [
-    "Obsidian_notes/Note/Python Frameworks/Introduction.md",
+    "Obsidian_notes/Note/Artificial inteligence/Introduction To AI.md",
+    "Obsidian_notes/Note/Artificial inteligence/unit 2.md",
+    "Obsidian_notes/Note/Python Frameworks/Web Security Concepts.md",
+    "Obsidian_notes/Note/Artificial inteligence",
+    "Untitled",
     "Obsidian_notes/Note/Python Frameworks/Flask.md",
-    "Obsidian_notes/Note/Python Frameworks/Django.md",
     "Obsidian_notes/Note/Machine Learning/Bias and Variance.md",
+    "Obsidian_notes/Note/Machine Learning/Decision Tree.md",
+    "Obsidian_notes/Note/Python Frameworks/Introduction.md",
+    "Obsidian_notes/Note/Python Frameworks/Django.md",
     "Obsidian_notes/Note/Machine Learning/UNIT 1.md",
     "Obsidian_notes/Note/Python Frameworks",
     "Obsidian_notes/Note/Untitled.md",
-    "Obsidian_notes/Note/Machine Learning/Decision Tree.md",
     "Obsidian_notes/Note/Machine Learning/Logistic Regression.md",
     "Untitled.md",
     "Obsidian_notes/Note/DAA/Graph.md",
@@ -208,15 +212,10 @@
     "Obsidian_notes/Note/Full stack Frame work/Express.js.md",
     "Ideas/Unlimited Cloud storage.md",
     "Ideas",
-    "Obsidian_notes/Note/Full stack Frame work/Full stack.md",
-    "Obsidian_notes/Note/Full stack Frame work/Mongo DB.md",
-    "Obsidian_notes/Note/Full stack Frame work/Node.JS.md",
     "Obsidian_notes/Note/Computer Networks",
     "Obsidian_notes/Note/DAA",
     "Obsidian_notes/Note/Full stack Frame work",
     "Ride/Untitled 1",
-    "Ride",
-    "Obsidian_notes/Note/COA",
     "Pasted image 20251014194816.png",
     "Pasted image 20251119015214.png"
   ]

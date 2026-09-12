@@ -202,3 +202,52 @@ The purpose of `get()` is to retrieve a parameter while allowing a **default val
 
 A **default value** is the value Flask uses when a requested query parameter is not supplied.**Parameter exists → use supplied value**
 **Parameter missing → use default value**
+
+
+### Templating​
+
+​Templating in flask is the process of creating dynamic web pages by combining HTML with data from the flask application
+Flask uses jinja2 template engine to generate HTML pages dynamically
+
+#### Need for Templating
+- Separation of concerns - separate the presentation layer from application logic layer, separates python logic code from HTML making the code base cleaner and easier to maintain
+- Dynamic Data Rendering: Allows loops conditions and variables directly inside HTML using jinja2 syntax enabling pages to change based on user inputs
+- Code Re-usability -  features like template's inheritance allows developers to create a single base layout and reuse it across multiple pages 
+`Security - jinja1 automatically escapes HTML by default,protecting applications against cross site scripting XSS attacks`
+
+### Step 1 — User sends a request
+The browser requests a particular URL from the Flask application.
+### Step 2 — Flask processes the request
+The appropriate **view function** handles the request.
+The view function contains the application-side logic required to process it.
+### Step 3 — Data is passed to the template
+The view function provides data to the template.
+### Step 4 — Jinja2 generates HTML
+
+The Jinja2 template engine processes the template and combines it with the supplied data.
+The result is a **complete HTML document**.
+### Step 5 — HTML is sent to the browser
+The generated HTML is returned as the HTTP response.
+### Overall flow
+**Browser**
+↓ request
+**Flask route/view**
+↓ data
+**Jinja2 template**
+↓ generated HTML
+**Browser**
+
+`A template engine is software that processes templates and produces the final output.`
+
+| Feature         | Django                        | Flask                                      |
+| --------------- | ----------------------------- | ------------------------------------------ |
+| Framework type  | Full-stack                    | Micro framework                            |
+| Complexity      | More complex                  | Lightweight                                |
+| Architecture    | MVT                           | Does not enforce one specific architecture |
+| ORM             | Built-in                      | Usually external, e.g. SQLAlchemy          |
+| Admin panel     | Built-in                      | No built-in admin panel                    |
+| Flexibility     | More predefined               | Highly customizable                        |
+| Learning        | Steeper                       | Easier                                     |
+| Template engine | Django Template Language      | Jinja2                                     |
+| Routing         | Centralized URL configuration | Route decorators                           |
+| Typical use     | Larger applications           | Smaller applications/APIs                  |

@@ -64,4 +64,3 @@ Choosing the right python frame work depends on what you are building and how mu
 #### When to choose Specialized ML Frameworks
 - when the web component is mainly used to showcase, test, or serve complex mathematical/ML models
 - Examples include **Scikit-learn, TensorFlow, and PyTorch**.
-- 
